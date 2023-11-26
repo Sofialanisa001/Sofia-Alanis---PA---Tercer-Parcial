@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\PC G81\Desktop\facu\progra\Sofia Alanis - TercerParcial\Sofia Alanis - TercerParcial\Source.cpp(166,16): warning C4244: 'return': conversión de 'WPARAM' a 'int'; posible pérdida de datos
+C:\Users\PC G81\Desktop\facu\progra\Sofia Alanis - TercerParcial\Sofia Alanis - TercerParcial\Source.cpp(431,14): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\PC G81\Desktop\facu\progra\Sofia Alanis - TercerParcial\Sofia Alanis - TercerParcial\Source.cpp(461,14): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\PC G81\Desktop\facu\progra\Sofia Alanis - TercerParcial\Sofia Alanis - TercerParcial\Source.cpp(371,7): warning C4101: 'mes': variable local sin referencia
+C:\Users\PC G81\Desktop\facu\progra\Sofia Alanis - TercerParcial\Sofia Alanis - TercerParcial\Source.cpp(657,29): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\PC G81\Desktop\facu\progra\Sofia Alanis - TercerParcial\Sofia Alanis - TercerParcial\Source.cpp(722,29): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\PC G81\Desktop\facu\progra\Sofia Alanis - TercerParcial\Sofia Alanis - TercerParcial\Source.cpp(845,22): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\PC G81\Desktop\facu\progra\Sofia Alanis - TercerParcial\Sofia Alanis - TercerParcial\Source.cpp(937,51): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  Sofia Alanis - TercerParcial.vcxproj -> C:\Users\PC G81\Desktop\facu\progra\Sofia Alanis - TercerParcial\x64\Debug\Sofia Alanis - TercerParcial.exe
